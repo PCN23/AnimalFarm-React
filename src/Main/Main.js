@@ -1,5 +1,5 @@
 import React from 'react';
-import '/Main.css';
+import './Main.css';
 import FarmAnimals from '../FarmAnimals/FarmAnimals';
 import backgroundImg from '../background.png';
 

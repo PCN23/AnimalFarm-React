@@ -1,3 +1,5 @@
+import './FarmAnimals.css';
+
 export default function FarmAnimal({ name, type, says }) {
   return (
     <div className="farm-animal">
